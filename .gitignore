@@ -1,3 +1,5 @@
 # Ignore large frameworks
 releases/download/**/AgoraRtcKit.framework/AgoraRtcKit
 releases/download/**/Agoraffmpeg.framework/Agoraffmpeg
+
+.DS_Store.DS_Store
